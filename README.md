@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BisexualTurtle
 - 👀 I’m interested in ... Game Development
-- 🌱 I’m currently learning ... Unity/C#
+- 🌱 I’m currently learning ... Godor/GDScript
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... Discord @bisexual_turtle
 - 😄 Pronouns: ... He/Him
