@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BisexualTurtle
 - 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ... Full-Stack Development
+- 🌱 I’m currently learning ... Python Development
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... Discord @bisexual_turtle
 - 😄 Pronouns: ... He/Him
